@@ -13,6 +13,7 @@ import android.os.Build;
 import android.support.annotation.RequiresApi;
 import android.text.TextUtils;
 import android.text.format.Time;
+import android.util.Log;
 
 import com.andview.refreshview.R;
 
@@ -83,6 +84,7 @@ public class ReFresh {
                             buffer.append(line);
                         }
                         String jsonStr = buffer.toString();
+
 
                         //处理
                         try {
