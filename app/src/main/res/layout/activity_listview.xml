@@ -9,6 +9,10 @@
     xrefreshview:isHeightMatchParent="true"
     xrefreshview:isWidthMatchParent="true" >
 
+
+
+
+
     <ListView
         android:id="@+id/lv"
         android:layout_width="match_parent"
