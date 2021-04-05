@@ -7,7 +7,7 @@
 
 ```groovy
 dependencies {
-   compile 'com.github.huxqI7:XRfreshview:3.7.0'
+   compile 'com.github.huxqI7:XRfreshview:3.7.1'
 }
 ```
 
