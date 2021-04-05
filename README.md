@@ -7,10 +7,7 @@
 
 ```groovy
 dependencies {
-   compile 'com.huxq17.xrefreshview:xrefreshview:3.6.9'
-   //依赖下面的库
-   compile 'com.android.support:recyclerview-v7:23.0.1'
-   compile 'com.android.support:support-v4:23.0.1'
+   compile 'com.github.huxqI7:XRfreshview:3.7.0'
 }
 ```
 
